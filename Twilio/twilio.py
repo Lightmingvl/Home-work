@@ -8,4 +8,3 @@ client.message.create(
     from = "+12674335886",
     body = "python sender",
     )
-print (message)

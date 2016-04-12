@@ -6,5 +6,5 @@ client = TwilioRestClient(TWILIO_ACCOUNT_SID, TWILIO_AUTH_TOKEN)
 client.message.create(
     to = "+380504571301",
     from = "+12674335886",
-    body = "python sender",
+    body = "Hello me",
     )

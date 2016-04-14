@@ -1,10 +1,10 @@
 import smtplib
 
-fromaddr = 'lightmingvl@gmail.com'
-toaddrs  = 'rudyi1@ucu.edu.ua'
+fromaddr = '@gmail.com'
+toaddrs  = '@gmail.com'
 msg = 'Hello Kitty!'
-gusername = 'lightmingvl@gmail.com'
-gpassword = '02071971'
+gusername = 'user_@gmail.com'
+gpassword = '02002020202'
 
 server = smtplib.SMTP('smtp.gmail.com:587')
 server.starttls()
